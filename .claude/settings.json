@@ -12,8 +12,6 @@
       "Bash(bun --env-file=.claude/skills/commerce-cloud/.env .claude/skills/commerce-cloud/scripts/query.js:*)",
       "Bash(bun --env-file=.claude/skills/sanity/.env .claude/skills/sanity/scripts/query.js:*)",
       "Bash(bun --env-file=.claude/skills/shopify/.env .claude/skills/shopify/scripts/query.js:*)",
-      "Bash(bun --env-file=.claude/skills/shopify/.env .claude/skills/shopify/scripts/storefront-query.js:*)",
-      "Bash(bun --env-file=.claude/skills/shopify/.env .claude/skills/shopify/scripts/mutation.js:*)"
-    ]
+      "Bash(bun --env-file=.claude/skills/shopify/.env .claude/skills/shopify/scripts/storefront-query.js:*)"    ]
   }
 }
